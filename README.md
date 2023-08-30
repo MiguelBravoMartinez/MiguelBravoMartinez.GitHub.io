@@ -1,4 +1,6 @@
+## Interesting Data Set
+Although all the provided Data Sets look really interesting, the <a href="https://github.com/datasets/covid-19">Covid-19</a> one cought my interest. The reason why I chose this one is because we went through a really difficult and hard situation during the period when Covid-19 was hitting our lives. I think this is a worldwide example of how Data can be used to help the world. With this Data Set, we could expect the change on the daily new infections, we could see how the virus is moving (more and less affected areas) and find the reason why this virus was spreading that fast and even find the origin of it. We can also compare the efficacy of different vaccines even that variable was taken into consideration and many more things. Finally, another important application we could give to this Data Set would be the prediction of new peaks (a lot of infections in a small period of time) to be ready and supply that region with more vaccines or medicines. <a href="https://datahub.io/core/covid-19">Here</a> you can find the direct link to download the data.  
+## Interesting Book
 <a href="">The book I chose</a>  
-<a href="">The Data Set I chose</a>  
 <img src="https://github.com/MiguelBravoMartinez/MiguelBravoMartinez.GitHub.io/assets/143567337/ef487276-865d-48b3-97ad-79f3792dfc04" width="400" height="500"/>
 
